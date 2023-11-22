@@ -1,2 +1,2 @@
 # Geometrie
-Ai puteti gasi exercitii cu OOP
+Aici puteti gasi exercitii cu OOP
